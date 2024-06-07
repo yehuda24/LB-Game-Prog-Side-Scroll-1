@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 1d70375f6c6d4d8439771f7b0028a06b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1007354510773535682
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_0
+  - first:
+      213: 5471568584448810166
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_1
+  - first:
+      213: -8435397924850538967
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_2
+  - first:
+      213: -2837294261869081105
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_3
+  - first:
+      213: -4814396522733704367
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_4
+  - first:
+      213: -797397320887113210
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_5
+  - first:
+      213: 5240975132317818022
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_6
+  - first:
+      213: -4314800394101073211
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_7
+  - first:
+      213: 4334461642149395363
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_8
+  - first:
+      213: -3913772147745203122
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_9
+  - first:
+      213: 8675843528920251827
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_10
+  - first:
+      213: -3101560908373761435
+    second: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Win
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1043
+        width: 422
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c34b812797dafd00800000000000000
+      internalID: 1007354510773535682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1043
+        width: 423
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc124053aaeeeb40800000000000000
+      internalID: 5471568584448810166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1043
+        width: 422
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926673ea7427fea80800000000000000
+      internalID: -8435397924850538967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_3
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1043
+        width: 424
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0a06c6e7ef98d0800000000000000
+      internalID: -2837294261869081105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 538
+        width: 424
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be49eced3df2db0800000000000000
+      internalID: -4814396522733704367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 538
+        width: 422
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aeca78c531fe4f0800000000000000
+      internalID: -797397320887113210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_6
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 538
+        width: 422
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac957e6d1fabb840800000000000000
+      internalID: 5240975132317818022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_7
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 538
+        width: 424
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cad3e007efbe14c0800000000000000
+      internalID: -4314800394101073211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 422
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abfed806e9172c30800000000000000
+      internalID: 4334461642149395363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 36
+        width: 422
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c54d9b7fc7fa9c0800000000000000
+      internalID: -3913772147745203122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 36
+        width: 422
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb92419b9c66870800000000000000
+      internalID: 8675843528920251827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_11
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 36
+        width: 424
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562e42f59ca05f4d0800000000000000
+      internalID: -3101560908373761435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_0: 1007354510773535682
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_1: 5471568584448810166
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_10: 8675843528920251827
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_11: -3101560908373761435
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_2: -8435397924850538967
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_3: -2837294261869081105
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_4: -4814396522733704367
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_5: -797397320887113210
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_6: 5240975132317818022
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_7: -4314800394101073211
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_8: 4334461642149395363
+      pixel-art-wooden-buttons-for-game-and-app-interface-icon-for-8bit-game-on-white-background-vector_9: -3913772147745203122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

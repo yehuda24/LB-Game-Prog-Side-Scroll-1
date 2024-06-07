@@ -19,6 +19,7 @@ public class PlayerPositionHandler : MonoBehaviour
     {
         Vector2 newCheckpointPosition = col.transform.position;
         currentCheckpointPosition = newCheckpointPosition;
+        SavePosition(currentCheckpointPosition);
     }
 
     public void OnTrap()
@@ -26,11 +27,24 @@ public class PlayerPositionHandler : MonoBehaviour
         ChangePlayerPosition(currentCheckpointPosition);
     }
 
-    public void ChangePlayerPosition(Vector2 newPosition)
+    public void OnFinish() 
+    {
+        playerPositionData.ResetData();
+    }
+
+    private void ChangePlayerPosition(Vector2 newPosition)
     {
         transform.position = newPosition;
     }
 
+    private void LoadPosition() 
+    {
+        playerCurrentPosition = playerPositionData.position;
+    }
 
+    private void SavePosition(Vector2 newPosition) 
+    {
+        playerPositionData.position = newPosition;
+    }
 
 }

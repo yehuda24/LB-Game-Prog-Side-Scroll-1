@@ -33,8 +33,7 @@ public class PlayerMove : MonoBehaviour
         transform.Translate(new Vector3(horizontalInput * speed * Time.deltaTime, 0f, 0f));
         SpriteFlip(horizontalInput);
 
-        if (horizontalInput != 0f)
-        {
+        if(horizontalInput != 0) {
             PlayWalk();
         }
 
@@ -45,7 +44,7 @@ public class PlayerMove : MonoBehaviour
             PlayJump();
         }
     }
-
+                                   
     private Animator animator;
     private void PlayWalk()
     {
