@@ -10,6 +10,7 @@ public enum TypeTag
     Checkpoint,
     Finish,
     Trigger,
+    Projectile
 }
 
 public class TriggerEvent : MonoBehaviour
@@ -17,7 +18,7 @@ public class TriggerEvent : MonoBehaviour
     public TypeTag targetTag;
     public UnityEvent<GameObject> OnTrigger;
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == targetTag.ToString())
         {
